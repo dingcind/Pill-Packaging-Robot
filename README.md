@@ -1,1 +1,4 @@
 # Pill-Packaging-Robot
+Nursing homes and hospitals are in need of a machine that automatically packages the residents’ weekly medications. The automated pill packaging machine will enable nurses to prepare patients’ weekly medications autonomously through an accurate and easy to use interface that requires less than a minute of setup time and will complete each patient’s box within three minutes. Furthermore, the usage of the pill boxing machine will allow nurses to spend less time packaging medication and more time with patients. The machine, ‘Pill Me, Please’, is able to sort round pills, flat pills, and long pills into a 14 compartment (7 days,morning/afternoon) pill box, to aid nursing home staff with the distribution of patients’ weekly medications. 
+
+This automation machine was made by a team of three 2nd year engineering students from the University of Toronto. 
